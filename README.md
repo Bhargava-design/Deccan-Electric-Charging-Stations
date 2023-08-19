@@ -1,3 +1,9 @@
+![Screenshot 2023-08-19 161102](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/d8619e44-c277-41d4-94af-d4b3ee21ee10)
+![Uploading Screenshot 2023-08-19 161041.png…]()
+![Uploading Screenshot 2023-08-19 161509.png…]()
+![Uploading Screenshot 2023-08-19 161426.png…]()
+![Screenshot 2023-08-19 161239](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/0e4f7695-5404-471e-a854-d0a34e8c00a5)
+![Uploading Screenshot 2023-08-19 161223.png…]()
 ![Uploading Screenshot 2023-08-19 161041.png…]()
 ![Uploading Screenshot 2023-08-19 161509.png…]()
 ![Uploading Screenshot 2023-08-19 161426.png…]()
@@ -122,12 +128,15 @@ Join us on this sustainable revolution as we reshape the way you navigate the wo
 ![getting-started-with-enterprise-data-science](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/4a6c9a4d-91d2-4151-ba41-aecbfb6ec7b2)
 
 <p><h1>Output for the above project</h1></p>
-<p>
-<li>
-![Home page](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/6f0aa4b7-4aa5-4395-8f3b-b4540c343c51)
-![Map Image](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/228a1d0e-c249-49f5-8d52-2e080eb542f1)
-![Uploading Screenshot 2023-08-19 161223.png…]()
-![Uploading Screenshot 2023-08-19 161211.png…]()
-</li>
-</p>
+
+![Screenshot 2023-08-19 161015](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/da4c34c3-6217-4bd6-88fc-a4c219c5b922)
+![Screenshot 2023-08-19 161041](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/baa606cd-a2ab-4506-a553-e94a678405bd)
+![Screenshot 2023-08-19 161102](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/d5226ed9-079a-4313-9bcc-dfbd853158a1)
+![Screenshot 2023-08-19 161142](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/d674bd68-f395-4c9d-9770-2933178d796e)
+![Screenshot 2023-08-19 161211](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/219ad31d-7036-4050-9bcf-e399e7b94aba)![Screenshot 2023-08-19 161223](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/2689054c-9942-4204-bed7-6c630aaadf6a)
+![Screenshot 2023-08-19 161239](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/fb3d764c-9903-4f42-9eef-237fdd679cd0)
+![Screenshot 2023-08-19 161426](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/0b7636a8-cb74-477f-b54e-d29af04dbd9a)
+![Screenshot 2023-08-19 161509](https://github.com/smartinternz02/SBSPS-Challenge-9909-1690274248/assets/84629488/c05be2e6-4943-4d0a-a762-eb13c8c448a8)
+
+<h1> Thank You </h1>
 </p>
