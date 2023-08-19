@@ -123,7 +123,11 @@ Join us on this sustainable revolution as we reshape the way you navigate the wo
 
 <p><h1>Output for the above project</h1></p>
 <p>
-![Screenshot 2023-08-19 161015](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/6f0aa4b7-4aa5-4395-8f3b-b4540c343c51)
-![Screenshot 2023-08-19 161142](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/228a1d0e-c249-49f5-8d52-2e080eb542f1)
+<li>>
+![Home page](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/6f0aa4b7-4aa5-4395-8f3b-b4540c343c51)
+![Map Image](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/228a1d0e-c249-49f5-8d52-2e080eb542f1)
 ![Uploading Screenshot 2023-08-19 161223.png…]()
 ![Uploading Screenshot 2023-08-19 161211.png…]()
+</li>
+</p>
+</p>
