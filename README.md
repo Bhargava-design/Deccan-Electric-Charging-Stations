@@ -1,13 +1,3 @@
-![Screenshot 2023-08-19 161102](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/d8619e44-c277-41d4-94af-d4b3ee21ee10)
-![Uploading Screenshot 2023-08-19 161041.png…]()
-![Uploading Screenshot 2023-08-19 161509.png…]()
-![Uploading Screenshot 2023-08-19 161426.png…]()
-![Screenshot 2023-08-19 161239](https://github.com/Bhargava-design/Deccan-Electric-Charging-Stations/assets/84629488/0e4f7695-5404-471e-a854-d0a34e8c00a5)
-![Uploading Screenshot 2023-08-19 161223.png…]()
-![Uploading Screenshot 2023-08-19 161041.png…]()
-![Uploading Screenshot 2023-08-19 161509.png…]()
-![Uploading Screenshot 2023-08-19 161426.png…]()
-![Uploading Screenshot 2023-08-19 161239.png…]()
 # Deccan-Electric-Charging-Stations
 This is the website where electrical vehicles find the near by charging stations To charge their vehicles
 
